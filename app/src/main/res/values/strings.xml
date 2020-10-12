@@ -1,0 +1,27 @@
+<resources>
+    <string name="appName">FlexTime</string>
+    <string name="subHeading">Workout Timer</string>
+    <string name="newButton">New</string>
+    <string name="saveButton">Saved</string>
+    <string name="companyName">ES4</string>
+    <string name="workTimeText">Work Time</string>
+    <string name="restTimeText">Rest Time</string>
+    <string name="repsText">Reps</string>
+    <string name="setsText">Sets</string>
+    <string name="cooldownTimeText">Cooldown Time</string>
+    <string name="startWorkout">Start</string>
+    <string name="hint">0</string>
+    <string name="StartTime">00:00</string>
+    <string name="Exercise">Exercise </string>
+    <string name="action_new">New Workout</string>
+    <string name="action_save">Save Workout</string>
+    <string name="action_settings">Settings</string>
+    <string name="popup_hint">Enter a name for your workout:</string>
+    <string name="confirm_text">CONFIRM</string>
+    <string name="input_warning">Make sure all workout values are filled in!</string>
+    <string name="simpleWorkout">Simple Workout</string>
+    <string name="complexWorkout">Complex Workout</string>
+    <string name="createNew">Create New: </string>
+
+
+</resources>
