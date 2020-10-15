@@ -49,7 +49,11 @@ public class WorkoutActivity extends AppCompatActivity {
         setContentView(R.layout.activity_workout);
         Intent getWorkout = getIntent();
         workoutIn = getWorkout.getParcelableExtra(NewWorkoutActivity.EXTRA_WORKOUT);
-        dataSet = workoutIn.workoutScheduleAsArray();
+        try {
+            dataSet = workoutIn.workoutScheduleAsArray();
+        } catch (Exception E) {
+            Toast.makeText(this, "An Error Has Occurred", Toast.LENGTH_LONG);
+        }
 
 
         recyclerView = findViewById(R.id.recycler_view);

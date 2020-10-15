@@ -20,5 +20,19 @@
 
     </Button>
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sv_complex_workout">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/complex_workout_unit_list"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+    </ScrollView>
 
 </RelativeLayout>
