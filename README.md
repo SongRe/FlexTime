@@ -2,7 +2,7 @@
 
 Description
 -
-Interval Timer workout application in development for android. Focus is on clean UI/UX design. 
+Interval Timer workout application in development for android. Focus is on clean and intuitive UI/UX.
 
 Technology Used
 -
