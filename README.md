@@ -17,4 +17,5 @@ Future Updates
 -
 - UI overhaul
 - Settings page
+- Bridge to react native
 
